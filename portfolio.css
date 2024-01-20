@@ -1,0 +1,17 @@
+body{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.box1{
+    background-color: mediumseagreen;
+    height: 120px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.box2{
+    background-color: #e39a69;
+}
+.box3{
+    background-color: rgb(53, 48, 48);
+}
